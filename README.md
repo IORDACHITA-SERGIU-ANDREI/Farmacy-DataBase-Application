@@ -1,1 +1,1 @@
-# C# --- SQL-Application
+DataBase Application using C# and SQL Server Management Studio
